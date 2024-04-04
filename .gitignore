@@ -1,2 +1,4 @@
 *.ttf
 *LICENSE
+*.pkg.tar.zst
+pkg/
